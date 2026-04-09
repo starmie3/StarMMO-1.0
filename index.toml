@@ -241,6 +241,10 @@ file = "mods/SmartBrainLib-forge-1.20.1-1.15.jar"
 hash = "665f65f77cc36379a9ae11c09db5d9efa1ad4f8d017edc8f65903ff27cacdb1d"
 
 [[files]]
+file = "mods/Sounds-2.2.1+1.20.1+forge.jar"
+hash = "2fa22c59f967e963c97e7d4374a8713247402fa6c87654b3057a1c248217c7fd"
+
+[[files]]
 file = "mods/Speed Enchantment 1.0.0 - 1.20.1.jar"
 hash = "2655d3f9aba3b6d42126d05f59bb99103d7597ea578ca4cf06285bfaabfe535c"
 
@@ -333,8 +337,16 @@ file = "mods/bc_particle-0.0.2-1.20.1.jar"
 hash = "e8d7c59590143501393005518acc6ea2f70b4b4ad55d0dfb6c59457ba989b8f6"
 
 [[files]]
+file = "mods/better-clouds-1.3.37-beta+1.20.1-forge.rev.e63efe2.jar"
+hash = "985b0e93156819847d3e825fa19f4267b8f2aa0efafeeb2d9c681bf52d040ca3"
+
+[[files]]
 file = "mods/better_climbing-forge-3.jar"
 hash = "9874cd89bc411d42ae863ece554d53be1adc11f1ce7bdd9cfd5c967e5bb7d265"
+
+[[files]]
+file = "mods/betterchat-1.0fix.jar"
+hash = "1f738ddc224ddf3c791ccb94ae90909862cbbb729e6110d43bc74aa4c2a5637e"
 
 [[files]]
 file = "mods/bettercombat-forge-1.8.6+1.20.1.jar"
