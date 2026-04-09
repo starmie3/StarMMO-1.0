@@ -349,10 +349,6 @@ file = "mods/better_climbing-forge-3.jar"
 hash = "9874cd89bc411d42ae863ece554d53be1adc11f1ce7bdd9cfd5c967e5bb7d265"
 
 [[files]]
-file = "mods/betterchat-1.0fix.jar"
-hash = "1f738ddc224ddf3c791ccb94ae90909862cbbb729e6110d43bc74aa4c2a5637e"
-
-[[files]]
 file = "mods/bettercombat-forge-1.8.6+1.20.1.jar"
 hash = "e147e13732e0fac83aee209487fdeb10a03e52c33e1b1439dbce01a80f3e8dbb"
 
