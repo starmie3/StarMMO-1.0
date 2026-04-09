@@ -429,10 +429,6 @@ file = "mods/dummmmmmy-1.20-2.0.6.jar"
 hash = "6d07e527fe6ecae78eeb20683f36dd438892dd2e6a07315ad3674c969d675c7b"
 
 [[files]]
-file = "mods/dungeons-and-taverns-3.0.3.f[Forge].jar"
-hash = "251b531ff2882c61a4c2eba3bd7b1683aa22b6c2d459e27bfde04a2948c99e1e"
-
-[[files]]
 file = "mods/dynamiclights-1.20.1.2.jar"
 hash = "ccde9eb51e4a56016b8e0d817d4a8afdc7779f25749cc4bdb07166e296853fd7"
 
@@ -449,10 +445,6 @@ file = "mods/embeddium-0.3.31+mc1.20.1.jar"
 hash = "eed3d1325f2acc2fd4e69bb495e5ccb91d962126ac5330f0582ebc2a3daf47fb"
 
 [[files]]
-file = "mods/ensorcellation-1.20.1-5.0.2.24.jar"
-hash = "84cb18702db2a26dfd5a21ff007e2bcf40e16092adf7b2a33b8489987c4d7b45"
-
-[[files]]
 file = "mods/entity_texture_features_forge_1.20.1-6.2.9.jar"
 hash = "f4a4b89409c0f67a3eb3930e33334382b8166c5a90259a6e7fdf5df19c365c12"
 
@@ -467,10 +459,6 @@ hash = "18fa648a887eb8ae284e278b1c361c8bffe73947336761d8b1787052dd34fe69"
 [[files]]
 file = "mods/expandability-9.0.4.jar"
 hash = "c1f7c3ba5873bb4797d2124c57bab3189acdb62d02f63217db1456d232dac20f"
-
-[[files]]
-file = "mods/extrakeybinds-1.20-1.0a.jar"
-hash = "b3983efea4eada27adc98ef8b363c04639c05564db0ed8464b1010f1fbcd2195"
 
 [[files]]
 file = "mods/fabledweaponry-1.20.1-1.0.7.5.jar"
@@ -819,10 +807,6 @@ hash = "722c3a85207dda7badd07ce76db8bbc771a053a5ec8d1740d10f937f956ec581"
 [[files]]
 file = "mods/starclasses-1.0.0.jar"
 hash = "5a38031d83243cb8df5628fc918dce2fb885a70d85dbb8019b2954b20054c1fa"
-
-[[files]]
-file = "mods/superflatworldnoslimes-1.20.1-3.5.jar"
-hash = "02cec37994ec520de3f1cb063122286a1d1ab5694de5bbb6c780bc653f28e7c2"
 
 [[files]]
 file = "mods/supplementaries-1.20-3.1.20.jar"
