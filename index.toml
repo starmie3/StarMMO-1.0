@@ -149,6 +149,10 @@ file = "mods/Luminous Monsters V1.2.62- Forge 1.20.1.jar"
 hash = "4888b02336129f2559d682f2026e769bfc943dbc9af55c95949d57ed91958819"
 
 [[files]]
+file = "mods/MRU-1.0.4+1.20.1+forge.jar"
+hash = "520c07bceb8987c4bb355d32b495ae03e4f106553df47b1a9691a08420016fa2"
+
+[[files]]
 file = "mods/MoreVanillaArmor-1.20.1-5.1.2.jar"
 hash = "ab7bace652c479138f29cab9b830c3e4b9322209f350147591b6c6d22a1c3d1e"
 
