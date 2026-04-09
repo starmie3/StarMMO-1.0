@@ -45,6 +45,14 @@ file = "mods/CameraOverhaul-v2.0.3-forge+mc[1.20.0-1.20.5].jar"
 hash = "72783b61af41ec10d7e5837f914180116ddc37e4e960a052e01da15ab78d30c0"
 
 [[files]]
+file = "mods/Connector-1.0.0-beta.48+1.20.1.jar"
+hash = "6226500de5d240d44244d8f35b402148667cc37a75d63d0e55800e049c82905c"
+
+[[files]]
+file = "mods/ConnectorExtras-1.11.2+1.20.1.jar"
+hash = "10d149fc9348b57120f50e3f82ac6f7e544ae18f0b5b7342c0cab3af38f5acd8"
+
+[[files]]
 file = "mods/Controlling-forge-1.20.1-12.0.2.jar"
 hash = "516308a93824119f6a1ebc75425aa21ee8f8de0c331942793a054ba6d9c24944"
 
@@ -477,6 +485,10 @@ file = "mods/fabledweaponry-1.20.1-1.0.7.5.jar"
 hash = "5319513cd241d920e7976aa805d17057069f4adc2ad3f416538f5bcf8c25621a"
 
 [[files]]
+file = "mods/fabric-api-0.92.6+1.11.14+1.20.1.jar"
+hash = "9b140af437581d32e5ee17d20f8fe882000e6a34cba85c152ae5bccc9570cc03"
+
+[[files]]
 file = "mods/fallingleaves-1.20.1-2.1.2.jar"
 hash = "6202d8241f01e21278fd5de644fd2e992824069f2cf0fc9dc6a74ab2218015b6"
 
@@ -615,6 +627,14 @@ hash = "b2c85e199af2070d4ab2ac165d78d95384b6e67784f7b0588b462d2ed3fe9c40"
 [[files]]
 file = "mods/majrusz-library-forge-1.20.1-7.0.8.jar"
 hash = "4d58fc2db26343d6b163dbb8f8c98e554ada6fffb634b9896c2d274629090548"
+
+[[files]]
+file = "mods/mcda-5.0.2.jar"
+hash = "cf3e3a0ed472b6e9af30708286b7232ceeab8cf5d755c5e91cd446cda0b8a359"
+
+[[files]]
+file = "mods/mcdw-9.0.4.jar"
+hash = "831cef36d489191bde9037a1a677fc3fcd2ad3e22101fffd0445ecd424b48856"
 
 [[files]]
 file = "mods/mcw-bridges-3.0.0-mc1.20.1forge.jar"
