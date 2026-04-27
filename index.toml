@@ -625,6 +625,10 @@ file = "mods/knightquest-forge-1.20.1-1.8.5.jar"
 hash = "bbb6159f46be3ca16b6ff29c984ca551fbe717c6347a567f16bdd69ca20edcbe"
 
 [[files]]
+file = "mods/konkrete_forge_1.8.0_MC_1.20-1.20.1.jar"
+hash = "e78686b92c3761ec26eb9d3c53efdd3d6ca77981cbd3723995e1163b7103ae0b"
+
+[[files]]
 file = "mods/kotlinforforge-4.11.0-all.jar"
 hash = "ef988f86d170af499d147ea8a5c34c99dbd6d8f4a5ad236a4b43818dc4470a10"
 
@@ -679,6 +683,10 @@ hash = "42d2fab97e84be941d28f59ca5f4e7322ec3a71192b00ba8a6b3b65a6ff0921c"
 [[files]]
 file = "mods/mcw-windows-2.3.0-mc1.20.1forge.jar"
 hash = "42deb1873ef76a8286d8c50da97be59c079e14ecd690faa76fe7e4f327ab14e0"
+
+[[files]]
+file = "mods/melody_forge_1.0.3_MC_1.20.1-1.20.4.jar"
+hash = "933e2a7e79c4594f965f7f7d00b1f28a98ec2a180ad8f9f90310a266fe5cf5d8"
 
 [[files]]
 file = "mods/mobhealthbar-forge-1.20.x-2.3.0.jar"
