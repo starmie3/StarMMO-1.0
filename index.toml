@@ -505,6 +505,10 @@ file = "mods/fallingleaves-1.20.1-2.1.2.jar"
 hash = "6202d8241f01e21278fd5de644fd2e992824069f2cf0fc9dc6a74ab2218015b6"
 
 [[files]]
+file = "mods/fancymenu_forge_3.8.1_MC_1.20.1.jar"
+hash = "ba1ddf0f61def8ea87e7757ebb45f1390e1da0f7ebce1aff299b0a169b045858"
+
+[[files]]
 file = "mods/fantasy_armor-forge-0.7-1.20.1.jar"
 hash = "20b428e7c3ae72ff7540f81fe44d66aa4eecf9c96fa85d1b27e43d4edebc8b3f"
 
