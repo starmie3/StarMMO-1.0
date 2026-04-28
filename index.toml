@@ -261,10 +261,6 @@ file = "mods/Sounds-2.2.1+1.20.1+forge.jar"
 hash = "2fa22c59f967e963c97e7d4374a8713247402fa6c87654b3057a1c248217c7fd"
 
 [[files]]
-file = "mods/Speed Enchantment 1.0.0 - 1.20.1.jar"
-hash = "2655d3f9aba3b6d42126d05f59bb99103d7597ea578ca4cf06285bfaabfe535c"
-
-[[files]]
 file = "mods/SpikySpikes-v8.0.1-1.20.1-Forge.jar"
 hash = "3797821fa3cb5195ded1802f0cb6dd42b29f29fe81f5c5e5eb0b697b5fb2755d"
 
@@ -866,7 +862,7 @@ hash = "722c3a85207dda7badd07ce76db8bbc771a053a5ec8d1740d10f937f956ec581"
 
 [[files]]
 file = "mods/starclasses-1.0.0.jar"
-hash = "fa186a48359af8bd1c954365cfc241aa8ddda2b9f2352fa605e6a04c1b23fe25"
+hash = "285e7ad87cdd8cb974c8ece28f573caecfb0f45c228e873987631bf5c1c10140"
 
 [[files]]
 file = "mods/supplementaries-1.20-3.1.20.jar"
