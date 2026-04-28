@@ -221,10 +221,6 @@ file = "mods/Placebo-1.20.1-8.6.3.jar"
 hash = "1cdf906cfbcbb5e5be2ef1bb721f79a24b01bd2ac559c8cdbfb7693f62421571"
 
 [[files]]
-file = "mods/Pretty Rain-1.20.1-Forge-1.1.3.jar"
-hash = "4d61ef6e1d1b4a3fb4acfc876fe0cfe14d56afe2097f952332c8c23838096ddf"
-
-[[files]]
 file = "mods/PuzzlesLib-v8.1.29-1.20.1-Forge.jar"
 hash = "5e3c77f2ae892336fbbd97b59e6fefe24c2d2c70d3906c7813e33c9425263b3a"
 
