@@ -1,6 +1,10 @@
 hash-format = "sha256"
 
 [[files]]
+file = "config/enhanced_attack_indicator.json"
+hash = "dfd674260ede324beda70c77c1353315fefce78433128f07e499c05f10f7427d"
+
+[[files]]
 file = "mods/3d_placeable_food-2.6.0-forge-1.20.1.jar"
 hash = "b1236607b9d0a6a930990167f61b4e12965092df6e57024cb974f07935a752ce"
 
