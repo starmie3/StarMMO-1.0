@@ -469,6 +469,10 @@ file = "mods/embeddium-0.3.31+mc1.20.1.jar"
 hash = "eed3d1325f2acc2fd4e69bb495e5ccb91d962126ac5330f0582ebc2a3daf47fb"
 
 [[files]]
+file = "mods/enhanced_attack_indicator-1.0.4+1.20.jar"
+hash = "1c2f16e9901ce30a5ca628848da0d0c6292981ac3bba2a3ecf2d765ddd3c031e"
+
+[[files]]
 file = "mods/entity_texture_features_forge_1.20.1-6.2.9.jar"
 hash = "f4a4b89409c0f67a3eb3930e33334382b8166c5a90259a6e7fdf5df19c365c12"
 
