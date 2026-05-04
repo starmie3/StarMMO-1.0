@@ -9,6 +9,10 @@ file = "config/fancymenu/assets/tips.txt.txt"
 hash = "83f7da65b041fd5303e5b5f531ca959a3aae4c941b5253a4dd7bd3f98aee2a3c"
 
 [[files]]
+file = "config/mobhealthbar-client.toml"
+hash = "edffa8e59a74fe3f67cee863d11f5689466b1709f8a45fdf299bf2184e98076e"
+
+[[files]]
 file = "mods/3d_placeable_food-2.6.0-forge-1.20.1.jar"
 hash = "b1236607b9d0a6a930990167f61b4e12965092df6e57024cb974f07935a752ce"
 
@@ -870,7 +874,7 @@ hash = "722c3a85207dda7badd07ce76db8bbc771a053a5ec8d1740d10f937f956ec581"
 
 [[files]]
 file = "mods/starclasses-1.0.0.jar"
-hash = "285e7ad87cdd8cb974c8ece28f573caecfb0f45c228e873987631bf5c1c10140"
+hash = "6c90b5ddcf846e41faec4c9915aed0a86c913261e399b4ec25351c12dbdf465c"
 
 [[files]]
 file = "mods/supplementaries-1.20-3.1.20.jar"
