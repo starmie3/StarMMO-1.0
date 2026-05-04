@@ -265,10 +265,6 @@ file = "mods/SmartBrainLib-forge-1.20.1-1.15.jar"
 hash = "665f65f77cc36379a9ae11c09db5d9efa1ad4f8d017edc8f65903ff27cacdb1d"
 
 [[files]]
-file = "mods/Sounds-2.2.1+1.20.1+forge.jar"
-hash = "2fa22c59f967e963c97e7d4374a8713247402fa6c87654b3057a1c248217c7fd"
-
-[[files]]
 file = "mods/SpikySpikes-v8.0.1-1.20.1-Forge.jar"
 hash = "3797821fa3cb5195ded1802f0cb6dd42b29f29fe81f5c5e5eb0b697b5fb2755d"
 
