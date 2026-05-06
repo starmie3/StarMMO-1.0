@@ -18,7 +18,7 @@
 	hovered_only = false
 	#
 	#List for the mobs that should not be displayed, put a comma (,) between the registered names!
-	blacklist = "minecraft:ender_dragon,minecraft:armor_stand,cnpcgeckoaddon:custommodelentity"
+	blacklist = "minecraft:ender_dragon,minecraft:armor_stand"
 
 	#MobHealtBar
 	[general.hpbar]
