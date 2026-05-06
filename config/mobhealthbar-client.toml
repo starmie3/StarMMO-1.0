@@ -7,7 +7,7 @@
 	#Show health points on bars. Note that not every type of the bars can show the hp
 	show_hp = true
 	#Show the Name above the mobs
-	show_name = false
+	show_name = true
 	#Show bars only when a mob is aggressive
 	on_aggro = false
 	#Show bar texture
@@ -18,7 +18,7 @@
 	hovered_only = false
 	#
 	#List for the mobs that should not be displayed, put a comma (,) between the registered names!
-	blacklist = "minecraft:ender_dragon,minecraft:armor_stand"
+	blacklist = "minecraft:ender_dragon,minecraft:armor_stand,cnpcgeckoaddon:custommodelentity"
 
 	#MobHealtBar
 	[general.hpbar]
