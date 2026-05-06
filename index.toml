@@ -49,8 +49,8 @@ file = "mods/Bookshelf-Forge-1.20.1-20.2.13.jar"
 hash = "c31fed2c1a1c0d72d3ef996bb84521b7d6a8fbd3115c89c001f13a7ffd56f64b"
 
 [[files]]
-file = "mods/CNPC-Gecko-Addon-1.20.1-1.0.0.jar"
-hash = "76d4a2fb5de12694d3d6965deb1f67eec772a8e2a8c9a9040d52737771ba668e"
+file = "mods/CNPC-Gecko-Addon-1.20.1-1.0.6.jar"
+hash = "cf00aa889803793e2e647394c19ce96941bba6a43eb5efe1d4dcfa65d120a5ba"
 
 [[files]]
 file = "mods/CameraOverhaul-v2.0.3-forge+mc[1.20.0-1.20.5].jar"
@@ -89,8 +89,8 @@ file = "mods/CustomNPCs-1.16.5.20220515.jar"
 hash = "4657613bb0e2e35795f8eff396fada7052aabee40fb1a7272c795531d5fe9c84"
 
 [[files]]
-file = "mods/CustomNPCs-1.20.1-GBPort-Unofficial-20251031.jar"
-hash = "2466e85869c467becbd3d6736c285e49d4dfa1b1b11deb68607180a448b2d777"
+file = "mods/CustomNPCs-1.20.1-GBPort-Unofficial-1.20.1.20260227.jar"
+hash = "3756bed8a2b8b2a45fd8ba8aab2be54b0ea3d2e258819426f65e00a5f83ef4d9"
 
 [[files]]
 file = "mods/Dawn Of Time-forge-1.20.1-1.5.11.jar"
