@@ -10,7 +10,7 @@ hash = "83f7da65b041fd5303e5b5f531ca959a3aae4c941b5253a4dd7bd3f98aee2a3c"
 
 [[files]]
 file = "config/mobhealthbar-client.toml"
-hash = "d82a22fbc55574b482d01ef7d4b6568a0eeb8c9e79278deec06c54023f8af141"
+hash = "9a7decf028b73e36a587e9edf20c2ad879236e8261241be355f53a6ab2cb788c"
 
 [[files]]
 file = "mods/3d_placeable_food-2.6.0-forge-1.20.1.jar"
