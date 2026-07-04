@@ -762,7 +762,7 @@ hash = "05d75229c1dfe096b74b1f756dbe92382979d409ad3a73b255f331ecae635978"
 
 [[files]]
 file = "mods/qualitymod-1.0.0.jar"
-hash = "9d5f5bd9c77340f8e4fc69ac865b4db988f03e86ca7ee60c10b5d6d24c8f5499"
+hash = "b8ced677a97b22675f7b8b1e583f846d0b5386428fc989821328d60468cc1b12"
 
 [[files]]
 file = "mods/radiantgear-forge-2.2.0+1.20.1.jar"
@@ -874,7 +874,7 @@ hash = "722c3a85207dda7badd07ce76db8bbc771a053a5ec8d1740d10f937f956ec581"
 
 [[files]]
 file = "mods/starclasses-1.0.0.jar"
-hash = "4c19e8180adf2230041713ccf67edf84c3b8c68c798de7aaa75da3e5aabb2951"
+hash = "6d5698b1868960d31db147faec2fb5b48a7aa4cfc7b8e81102aa70862c8051c7"
 
 [[files]]
 file = "mods/supplementaries-1.20-3.1.20.jar"
