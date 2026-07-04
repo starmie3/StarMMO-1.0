@@ -381,8 +381,12 @@ file = "mods/blur-forge-3.1.1.jar"
 hash = "7ab7248ecfc0fa9cf2e6dd7530732263e580d7a794a6ba999366af345e7c8e71"
 
 [[files]]
-file = "mods/born_in_chaos_[Forge]1.20.1_1.6.3.jar"
-hash = "f5dafc9f2e7aa871437bba63656def46c3d4bae3ffe5524333ab5753b0f9173f"
+file = "mods/born_in_chaos_[Forge]1.20.1_1.7.5.jar"
+hash = "9f242f4f3330f3d0d985f5f3ce9a92fe09016ff9c6162252f201d17009b28d7d"
+
+[[files]]
+file = "mods/borninconfiguration-3.2.1[FORGE].jar"
+hash = "0a2c0b7e71c78462ff1dbac62d7a4e0608948ab3f497a4df5ef7bf7de3e13b81"
 
 [[files]]
 file = "mods/caelus-forge-3.2.0+1.20.1.jar"
